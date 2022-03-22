@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JDucote
 - 👀 I’m interested in Front End Web Design
 - 🌱 I’m currently attending University of New Orleans
-- 📫 How to reach me text jducote810@gmail.com
+- 📫 How to reach me: jducote810@gmail.com
 
 <!---
 JDucote/JDucote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
